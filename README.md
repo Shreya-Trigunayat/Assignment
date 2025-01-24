@@ -31,8 +31,7 @@ The `Frame` component displays two images:
 
 ### 3. Info Component
 
-The `Info` component features text animations that enhance user engagement:
-- **Typing Animation**: Text within the component animates as if it is being typed out. This effect draws attention and adds a dynamic element to the UI.
+The `Info` component showcases key statistics, including a **98.2%** success rate for users getting into their target programs, a **4.96** Google rating, and over **5000+** students assisted. It features dynamic text that emphasizes user satisfaction and encourages exploration of products. The component is visually appealing with a gradient background, responsive design, and smooth entrance animations.
 
 ## Animations
 
@@ -59,20 +58,22 @@ The application employs Tailwind CSS classes to manage responsiveness:
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling and responsive design.
 - **PrimeReact**: For UI components like Menubar.
+- **Vite**: For fast development and build processes.
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project locally using Vite, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shreya-Trigunayat/Assignment.git
    cd Assignment
-2. Install dependencies:
+2. Install dependencies using Vite:
    ```bash
    npm install
-3.  Start the development server: npm run dev
-
+3. Start the development server: npm run dev
+4. Open your browser and navigate to `http://localhost:5173` (or whatever port Vite specifies).
+      
 ## Usage
 
 Navigate through the menu items in the navbar. On smaller screens, click the hamburger icon to access the menu options. Hover over buttons to see interactive effects.
