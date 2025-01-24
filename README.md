@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shreya-Trigunayat/Assignment.git
-   cd yourproject
+   cd Assignment
 2. Install dependencies:
    ```bash
    npm install
@@ -76,4 +76,3 @@ To run this project locally, follow these steps:
 ## Usage
 
 Navigate through the menu items in the navbar. On smaller screens, click the hamburger icon to access the menu options. Hover over buttons to see interactive effects.
-
