@@ -77,3 +77,17 @@ To run this project locally using Vite, follow these steps:
 ## Usage
 
 Navigate through the menu items in the navbar. On smaller screens, click the hamburger icon to access the menu options. Hover over buttons to see interactive effects.
+
+##Assignment
+
+![Screenshot 2025-01-24 121738](https://github.com/user-attachments/assets/afa2e686-8568-428e-8026-9d58ad8eecb1)
+
+![Screenshot 2025-01-24 121758](https://github.com/user-attachments/assets/bd962790-cb18-4f2a-81dd-ac320b9610de)
+
+![Screenshot 2025-01-24 121822](https://github.com/user-attachments/assets/3fcdfdaa-b788-4d80-9f1b-2942c6c62386)
+
+![Screenshot 2025-01-24 121849](https://github.com/user-attachments/assets/8dc999e4-68fa-4fe4-99ba-4a74b3f617af)
+
+
+
+
