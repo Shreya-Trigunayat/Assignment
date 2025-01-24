@@ -1,0 +1,46 @@
+@import "tailwindcss";
+.p-icon.p-submenu-icon{
+    color: #B10612;
+    
+}
+.p-icon{
+    color: #B10612;
+}
+.p-menubar .p-menuitem-link:hover > span,
+.p-menubar .p-menuitem-link:hover > p {
+  color: #B10612 !important;
+  font-weight: bold !important;
+  font-size: larger !important;
+}
+@keyframes animate-width {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+}
+
+.animate-width {
+    animation: animate-width 1000ms linear; /* Adjust duration and timing as needed */
+}
+.textAni {
+    display: inline-block; 
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden; 
+    animation: typing 6s steps(30) infinite; 
+    text-align: center;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0; 
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  
+
